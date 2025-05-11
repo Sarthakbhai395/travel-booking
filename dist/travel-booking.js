@@ -1,3 +1,8 @@
+
+
+
+
+
 "use strict";
 // 1. Define types and enums
 var TravelType;
